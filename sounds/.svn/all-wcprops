@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/45/TicTacToe/sounds
+END
+click.wav
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/TicTacToe/sounds/click.wav
+END
+error.wav
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/TicTacToe/sounds/error.wav
+END
+win.wav
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/TicTacToe/sounds/win.wav
+END
